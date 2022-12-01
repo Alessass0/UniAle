@@ -1,3 +1,3 @@
 # UniAle
 ## Design 1 
-* perché  claudia non lavora? *
+ perché  claudia non lavora? 
